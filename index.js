@@ -41,6 +41,9 @@ const shortNames = {
   rxjava: 'reactivex',
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
+  platformio: 'platformio',
+  avr: 'avr',
+  espressif: 'espressif-systems',
 };
 const themedIcons = [
   ...Object.keys(icons)
